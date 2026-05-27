@@ -73,7 +73,7 @@ Built a production-ready full-stack application in 24 hours that scrapes passpor
 **Tech Stack:** Next.js 14, FastAPI, PostgreSQL, Redis, Docker, NLP (Transformers, scikit-learn), Vercel, Render
 
 **Live Demo:** https://passport-scraper-dashboard.vercel.app
-**GitHub:** https://github.com/AyushAnchal-Dev/passport-scraper-dashboard
+**Repo:** https://github.com/AyushAnchal-Dev/passport-scraper-dashboard
 
 #FullStack #AI #NLP #NextJS #FastAPI #Docker #WebDevelopment
 
