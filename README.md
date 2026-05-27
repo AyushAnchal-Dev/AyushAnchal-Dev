@@ -57,7 +57,27 @@ My focus is on clean architecture, meaningful features, and production-ready cod
 ---
 
 ## 🔥 Featured Projects
+### **AERO-PASS: Passport Social Media Analytics Dashboard**
 
+Built a production-ready full-stack application in 24 hours that scrapes passport-related discussions from social media and processes them with AI.
+
+**What it does:**
+- Scrapes live Reddit posts about passports every 5 minutes
+- Classifies into 10 categories (Tatkal, Renewal, Visa, Scams, etc.)
+- Generates 30-word AI summaries for every post
+- Groups similar posts using DBSCAN clustering
+- Translates into 10 languages with one click
+- Filters by platform, category, sentiment, region, and author
+- Exports data to CSV/PDF
+
+**Tech Stack:** Next.js 14, FastAPI, PostgreSQL, Redis, Docker, NLP (Transformers, scikit-learn), Vercel, Render
+
+**Live Demo:** https://passport-scraper-dashboard.vercel.app
+**GitHub:** https://github.com/AyushAnchal-Dev/passport-scraper-dashboard
+
+#FullStack #AI #NLP #NextJS #FastAPI #Docker #WebDevelopment
+
+---
 ### 🪪 KarmaPass – On-Chain Skill Verification Platform
 A decentralized resume verification and public credentialing platform that allows users to prove their skills and job roles using **AI analysis and blockchain verification** — without paid certificates.
 
