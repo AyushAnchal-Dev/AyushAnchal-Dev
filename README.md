@@ -1,252 +1,97 @@
-# Hi, I'm Ayush Anchal 👋  
+# Hi, I'm Ayush Anchal 👋
 
-🎓 B.Tech CSE (2023–2027)  
-💻 Full Stack Developer | AI + Blockchain Enthusiast  
-📍 India  
+🎓 **B.Tech CSE (2023–2027)** · Full Stack & AI Engineer  
+📍 Sangrur, Punjab, India  
+💼 [LinkedIn](https://linkedin.com/in/ayush-anchal-04117028a) · [GitHub](https://github.com/AyushAnchal-Dev) · [Portfolio](https://portfolio-x2cn.vercel.app) · 📧 abhardwaj8507@gmail.com
 
-I build **real-world, scalable, and impact-driven applications** using  
-**Web Technologies, AI systems, and Blockchain infrastructure**.  
-My focus is on clean architecture, meaningful features, and production-ready code.
+I build **production‑ready, AI‑powered, and scalable applications** — from voice‑first FinTech platforms to self‑healing compiler pipelines and blockchain‑based verification systems. I'm passionate about system design, clean architecture, and using technology for social impact.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 💻 Programming Languages
-- JavaScript (ES6+)
-- TypeScript (basic)
-- C++
-- Solidity
-
-### 🌐 Frontend
-- HTML5, CSS3
-- Tailwind CSS
-- React.js, Vite, Next.js
-- Responsive UI / UX Design
-
-### 🧩 Backend
-- Node.js
-- Express.js
-- REST APIs
-- Prisma ORM
-
-### 🗄 Databases
-- MongoDB
-- PostgreSQL (Neon)
-- Local Storage
-
-### 🔗 Blockchain
-- Ethereum & Polygon
-- Smart Contracts (Solidity)
-- MetaMask
-- IPFS
-- On-chain verification systems
-
-### 🤖 AI / NLP
-- Resume Parsing
-- Skill Extraction
-- Job-Role Matching
-- LLM API Integration
-
-### 🛠 Tools
-- Git & GitHub
-- Postman
-- Firebase
-- Vercel, Render, Netlify
+- **AI/ML**: OpenAI, Google Gemini, Ollama, NLP, LangChain  
+- **Backend**: Python (FastAPI), Node.js (Express), Prisma, Celery, RabbitMQ, JWT, RBAC  
+- **Frontend**: React, Next.js 14/15, TypeScript, Tailwind CSS, ShadCN, Monaco Editor, Web Speech API  
+- **Database**: PostgreSQL, MongoDB, Redis, Supabase, Neon, SQLite  
+- **Blockchain**: Solidity, Ethers.js, Polygon, MetaMask, IPFS  
+- **DevOps**: Docker, Kubernetes, ArgoCD, CI/CD, Git, Vercel, Railway, Server‑Sent Events (SSE)  
+- **Core**: System Design, Data Structures & Algorithms, REST APIs, WebSockets, Microservices
 
 ---
 
 ## 🔥 Featured Projects
-### **AERO-PASS: Passport Social Media Analytics Dashboard**
 
-Built a production-ready full-stack application in 24 hours that scrapes passport-related discussions from social media and processes them with AI.
+### 🎙️ CallReview AI – Agentic SaaS Platform  
+**FastAPI, Gemini 2.5, Twilio, K8s, Celery, PostgreSQL**  
+[GitHub](https://github.com/AyushAnchal-Dev/callrevive-ai) · [Live Demo](https://callrevive-ai.vercel.app)
 
-**What it does:**
-- Scrapes live Reddit posts about passports every 5 minutes
-- Classifies into 10 categories (Tatkal, Renewal, Visa, Scams, etc.)
-- Generates 30-word AI summaries for every post
-- Groups similar posts using DBSCAN clustering
-- Translates into 10 languages with one click
-- Filters by platform, category, sentiment, region, and author
-- Exports data to CSV/PDF
-
-**Tech Stack:** Next.js 14, FastAPI, PostgreSQL, Redis, Docker, NLP (Transformers, scikit-learn), Vercel, Render
-
-**Live Demo:** https://passport-scraper-dashboard.vercel.app
-
-**Repo:** https://github.com/AyushAnchal-Dev/passport-scraper-dashboard
-
-#FullStack #AI #NLP #NextJS #FastAPI #Docker #WebDevelopment
-
----
-### 🪪 KarmaPass – On-Chain Skill Verification Platform
-A decentralized resume verification and public credentialing platform that allows users to prove their skills and job roles using **AI analysis and blockchain verification** — without paid certificates.
-
-🔹 **Key Highlights**
-- AI-powered resume skill extraction
-- Automatic job-role matching
-- Blockchain-based verification on Polygon
-- Public verified profile with QR code
-- Tamper-proof proof-of-skill system
-- Recruiter-viewable verification via wallet address
-
-🔧 **Tech Stack:**  
-React, Tailwind CSS, Node.js, Solidity, Polygon, IPFS, MetaMask  
-
-🌐 **Live:** https://karmapass.vercel.app  
-📦 **Repo:** https://github.com/AyushAnchal-Dev/karmapass  
+- AI‑powered voice/WhatsApp conversational platform with Gemini 2.5, Redis session caching, and Celery/RabbitMQ microservices.  
+- Built a revenue‑prediction pipeline with **95%+ lead qualification accuracy**; deployed on **Kubernetes with ArgoCD GitOps**.  
+- Glassmorphic React dashboard with real‑time analytics, Twilio integration, and Backblaze B2 audio backups.
 
 ---
 
-### 🧠 Resume Analyzer & Blockchain Verifier
-An intelligent resume analyzer that extracts candidate skills using AI, maps them to suitable job roles, and verifies authenticity using blockchain technology.
+### ⚙️ AI Compiler Pipeline – Self‑Healing Code Generation  
+**Python, FastAPI, Gemini, Docker, PostgreSQL**  
+[GitHub](https://github.com/AyushAnchal-Dev/Ai-COMPILER-PIPELINE) · [Live Demo](https://ai-compiler-pipeline-lqxo.onrender.com)
 
-🔹 **Features**
-- AI-based resume parsing
-- Skill-to-job role matching
-- Blockchain resume verification
-- Secure and scalable architecture
-
-🔧 **Tech Stack:**  
-React, Tailwind CSS, Node.js, Prisma, PostgreSQL (Neon), Solidity, IPFS  
-
-🌐 **Live:** https://resume-analyzer-frontend-beta.vercel.app  
+- 6‑stage compiler that translates natural language prompts into executable application schemas (UI, DB, APIs, roles, permissions).  
+- Self‑healing architecture with targeted repair loops and runtime simulation; achieved **100% evaluation success** on 20 test prompts.  
+- Integrated conflict detection, validation engine, SSE streaming, and **89% LLM cache hit rate** for cost optimisation.
 
 ---
 
-### 📌 Full Stack Task Management System (TaskMan)
-A modern MERN-stack task management platform demonstrating complete **authentication, authorization, and CRUD operations** with production-ready deployment.
+### 🪙 BachatVaani – Voice‑Based Micro Savings Platform  
+**Next.js 15, Prisma, PostgreSQL, Web Speech API, JWT**  
+[GitHub](https://github.com/AyushAnchal-Dev/BACHAT-VAANI) · [Live Demo](https://bachat-vaani.vercel.app)
 
-🔹 **Features**
-- JWT-based authentication & protected routes
-- Create, update, delete, and track tasks
-- Priority, status, and due-date management
-- Responsive and clean UI
-- MongoDB Atlas integration
-
-🔧 **Tech Stack:**  
-React, Node.js, Express.js, MongoDB, JWT, bcrypt  
-
-🌐 **Frontend:** https://fullstack-management-system-task-ma-one.vercel.app  
-🌐 **Backend:** https://fullstack-management-system-taskman.onrender.com  
-📦 **Repo:** https://github.com/AyushAnchal-Dev/Fullstack-Management-System-TaskMan  
+- Voice‑first financial inclusion platform for India's informal workforce; supports Hindi/English voice commands for savings, goal tracking, and impact forecasting.  
+- Built with Next.js 15, Prisma, PostgreSQL, JWT authentication, and gamification (streaks, badges); deployed on Vercel.
 
 ---
 
-### 🎙️ EchoTalk – Real-Time Chat Application
-A feature-rich real-time chat application with **Socket.IO**, AI assistant integration, and modern UI/UX.
+### 🪪 KarmaPass – On‑Chain Skill Verification  
+**Solidity, Polygon Amoy, OpenAI, React, Tailwind**  
+[GitHub](https://github.com/AyushAnchal-Dev/karmapass) · [Live Demo](https://karmapass.vercel.app)
 
-🔹 **Features**
-- Real-time messaging with Socket.IO
-- JWT authentication
-- Online/offline status & typing indicator
-- Emoji & file sharing
-- Speech-to-text messaging
-- Dark mode support
-- AI-powered EchoBot assistant
-
-🔧 **Tech Stack:**  
-React, Node.js, Express.js, MongoDB, Socket.IO  
-
-📦 **Repo:** https://github.com/AyushAnchal-Dev/EchoTalk-Real-Time-Chat-Application  
+- Decentralised platform that parses resumes via OpenAI and stores verified skills on a **Polygon Amoy smart contract**.  
+- MetaMask‑integrated frontend with QR codes for instant on‑chain credential verification by recruiters.
 
 ---
 
-### 💰 NovaTrack – Expense Tracker
-A modern expense tracking application focused on usability, visual clarity, and data persistence.
+### 💼 HireAI – AI Hiring Platform  
+**Next.js 14, Prisma, PostgreSQL, Ollama, TypeScript**  
+[GitHub](https://github.com/AyushAnchal-Dev/HireAI-AI-Powered-Hiring-Dashboard) · [Live Demo](https://hireai-ai-powered-hiring-dashboard-production.up.railway.app/)
 
-🔹 **Features**
-- Real-time balance calculation
-- Income & expense history
-- Category-based filtering
-- Local storage persistence
-- Light/Dark mode
-- CSV export
-- Smart insights panel
-
-🔧 **Tech Stack:**  
-HTML, CSS, JavaScript  
-
-📦 **Repo:** https://github.com/AyushAnchal-Dev/NovaTrack-Expense-Tracker  
+- Full‑stack SaaS with recruiter/candidate dashboards, NextAuth.js, role‑based access, and **Monaco Editor** coding environment.  
+- Integrated **Ollama (Llama 3)** for real‑time AI code review (correctness, complexity, edge cases, optimisation).  
+- Automated generation of **15+ unique DSA problems daily** with hybrid fallback; deployed on Railway with Docker.
 
 ---
 
-### ⏰ Digital Clock
-A visually rich digital clock with animations, greetings, and theme switching — built using pure frontend technologies.
+## 📌 Other Projects
 
-🔹 **Features**
-- Real-time clock & date
-- Dynamic greetings
-- Neon glow animations
-- Dark/Light mode
-- Responsive design
-- Modular JS logic
-
-🔧 **Tech Stack:**  
-HTML, CSS, JavaScript  
-
-📦 **Repo:** https://github.com/AyushAnchal-Dev/Digital-Clock  
+- **AERO‑PASS** – Real‑time social media scraper & NLP analytics dashboard for passport discussions ([GitHub](https://github.com/AyushAnchal-Dev/passport-scraper-dashboard) · [Live](https://passport-scraper-dashboard.vercel.app))  
+- **EchoTalk** – Real‑time chat app with Socket.IO and AI assistant ([GitHub](https://github.com/AyushAnchal-Dev/EchoTalk-Real-Time-Chat-Application))  
+- **NovaTrack** – Expense tracker with local storage and CSV export ([GitHub](https://github.com/AyushAnchal-Dev/NovaTrack-Expense-Tracker))  
+- **Resume Analyzer & Blockchain Verifier** – AI‑powered resume parsing and on‑chain verification ([Live](https://resume-analyzer-frontend-beta.vercel.app) · [GitHub](https://github.com/AyushAnchal-Dev/resume-analyzer))
 
 ---
 
-### 📘 KBD-Tech Interview Competition – Quiz Platform
-A responsive and interactive quiz platform designed for technical assessments.
+## 📈 GitHub Metrics & Contributions
 
-🔹 **Features**
-- MCQ-based quiz system
-- Progress tracking
-- Result summary
-- Responsive UI
-- Smooth animations
-
-📦 **Repo:** https://github.com/AyushAnchal-Dev/KBD-Tech-Interview-Competition  
+- **2+ years** of hands‑on full‑stack development experience through projects, open source, and internships.  
+- **7+ production‑grade applications** deployed on Kubernetes, Vercel, and Railway.  
+- **Open‑source contributor** to [Electron](https://github.com/electron/electron) (merged PR #49234).  
+- **Hackathon Participation** – Bharat Academix CodeQuest 2026.
 
 ---
 
-### 🎬 Movie Search Application
-A movie discovery app powered by the OMDb API with voice search support.
+## 📫 Connect with Me
 
-🔹 **Features**
-- Movie search by title
-- Detailed movie information
-- Responsive UI
-- Voice search support
+- **LinkedIn**: [ayush-anchal-04117028a](https://linkedin.com/in/ayush-anchal-04117028a)  
+- **GitHub**: [AyushAnchal-Dev](https://github.com/AyushAnchal-Dev)  
+- **Email**: abhardwaj8507@gmail.com  
 
-📦 **Repo:** https://github.com/AyushAnchal-Dev/Movie-Search-App  
-
----
-
-### 📝 To-Do List Application
-A clean and modern to-do application with glassmorphism design.
-
-🔹 **Features**
-- Add, complete, delete tasks
-- Smooth animations
-- Responsive layout
-
-📦 **Repo:** https://github.com/AyushAnchal-Dev/To-Do-List  
-
----
-
-### 🚀 Time Capsule Portfolio
-A timeline-based creative portfolio representing past, present, and future journeys.
-
-🔹 **Highlights**
-- Story-driven design
-- Secret capsule section
-- Unique UI concepts
-- Personal branding focused
-
-🌐 **Live:** http://portfolio-kohl-pi-38.vercel.app  
-📦 **Repo:** https://github.com/AyushAnchal-Dev/Time-Capsule-Portfolio  
-
----
-
-## 📫 Contact & Profiles
-- **LinkedIn:** https://www.linkedin.com/in/ayush-anchal-04117028a  
-- **GitHub:** https://github.com/AyushAnchal-Dev  
-- **Email:** abhardwaj8507@gmail.com  
-
----
-
-⭐ *Always open to learning, collaboration, internships, and impactful opportunities.*
+I'm always open to **internships, full‑time roles, and impactful collaborations**. Feel free to reach out!
