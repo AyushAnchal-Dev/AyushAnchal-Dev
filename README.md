@@ -22,7 +22,7 @@ I build **production‑ready, AI‑powered, and scalable applications** — from
 
 ## 🔥 Featured Projects
 
-### 🎙️ CallReview AI – Agentic SaaS Platform  
+### 🎙️ CallRevive AI – Agentic SaaS Platform  
 **FastAPI, Gemini 2.5, Twilio, K8s, Celery, PostgreSQL**  
 [GitHub](https://github.com/AyushAnchal-Dev/callrevive-ai) · [Live Demo](https://callrevive-ai.vercel.app)
 
