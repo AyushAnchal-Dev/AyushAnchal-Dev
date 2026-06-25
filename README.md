@@ -95,3 +95,11 @@ I build **production‑ready, AI‑powered, and scalable applications** — from
 - **Email**: abhardwaj8507@gmail.com  
 
 I'm always open to **internships, full‑time roles, and impactful collaborations**. Feel free to reach out!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushAnchal-Dev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAnchal-Dev&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AyushAnchal-Dev)
